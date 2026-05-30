@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerpetch",
+        "uuid": 3315587,
+        "checksum": "tti89"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
